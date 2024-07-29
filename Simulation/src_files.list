@@ -1,0 +1,10 @@
+../SV_Testbench/shared_pkg.sv
+../SV_Testbench/FIFO_transaction.sv
+../SV_Testbench/FIFO_coverage.sv
+../SV_Testbench/FIFO_scoreboard.sv
+../SV_Testbench/FIFO_if.sv
+../SV_Testbench/FIFO_monitor.sv
+../SV_Testbench/FIFO_tb.sv
+../SV_Testbench/FIFO_top.sv
+../SV_Testbench/FIFO.sv
+../SV_Testbench/FIFO_ref.sv
